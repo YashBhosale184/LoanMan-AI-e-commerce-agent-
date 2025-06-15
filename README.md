@@ -17,4 +17,4 @@ Features: <br>
 2. AI powered <br>
 3. Solving real life problems <br>
 <hr>
-still in improvment phase!
+backend storage is in improvment phase!
