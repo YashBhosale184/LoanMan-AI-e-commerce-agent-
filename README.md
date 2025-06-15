@@ -10,7 +10,7 @@ dotenv for environment management 🛠️ <br>
 <hr> 
 Purpose: <br>
 80% small street vendors does not get loan approved bcz of absence of collateral, so much paper work is there in bank. <br>
-my this app provides loan to them by tracking there daily sales
+my this app provides loan to them by tracking there daily sales.
 <hr>
 Features: <br>
 1. Easy UI <br>
