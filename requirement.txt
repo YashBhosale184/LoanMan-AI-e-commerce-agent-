@@ -1,0 +1,3 @@
+dotenv
+paymanai-sdk
+streamlit
